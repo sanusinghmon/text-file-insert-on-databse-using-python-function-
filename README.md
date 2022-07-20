@@ -1,0 +1,1 @@
+# text-file-insert-on-databse-using-python-function-
